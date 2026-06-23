@@ -1,16 +1,78 @@
-[
-  {
-    "title": "Nike Air Max",
-    "description": "Comfortable running shoe",
-    "price": 4999,
-    "image_url": "https://picsum.photos/300/300?1",
-    "url": "https://example.com/product1"
-  },
-  {
-    "title": "Adidas Ultraboost",
-    "description": "Premium sports shoe",
-    "price": 6999,
-    "image_url": "https://picsum.photos/300/300?2",
-    "url": "https://example.com/product2"
-  }
-]
+
+        "content" : [
+            {
+                "title" : "Simple B&W Towels",
+                "date" : 1474056591,
+                "tags" : [
+                    "towels",
+                    "bathroom",
+                    "home",
+                    "25-50",
+                    "color-black"
+                ],
+                "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean m",
+                "price" : 3000,
+                "image" : "http://email-media.s3.amazonaws.com/Sailthru/default/images/stock/towels.jpg",
+                "vars" : {
+                    "sailthru_default" : "ecommerce",
+                    "sailthru_category" : "home",
+                    "description_length" : 100
+                },
+                "url" : "http://www.sailthru.com/marketing-blog/1457649847h",
+                "weight" : 1,
+                "sailthru" : {
+                    "id" : "57dc518f487ccd697e8b456e",
+                    "hash_id" : "e9b454960b7f52f1a525b6f8352b1812"
+                },
+                "images" : {
+                    "full" : {
+                        "url" : "http://email-media.s3.amazonaws.com/Sailthru/default/images/stock/towels.jpg"
+                    }
+                },
+                "drawerItems" : [
+                    "remove",
+                    "edit",
+                    "pin"
+                ]
+            },
+            {
+                "title" : "TEST - Women's Shoes in Black and White",
+                "date" : 1567691488,
+                "tags" : [
+                    "clothing",
+                    "shoes",
+                    "footwear",
+                    "200-500",
+                    "formalwear",
+                    "womens",
+                    "color-black"
+                ],
+                "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,.",
+                "price" : 201000,
+                "image" : "http://email-media.s3.amazonaws.com/Sailthru/default/images/stock/high_heels.jpg",
+                "vars" : {
+                    "rating" : 3.5,
+                    "sailthru_default" : "ecommerce",
+                    "sailthru_category" : "clothing",
+                    "description_length" : 225
+                },
+                "api_ts" : {
+                    "sec" : 1567691488,
+                    "usec" : 976000
+                },
+                "ts" : {
+                    "sec" : 1567691488,
+                    "usec" : 978000
+                },
+                "url" : "http://www.sailthru.com/marketing-blog/145755110444",
+                "weight" : 1,
+                "sailthru" : {
+                    "id" : "5d7112e09c625f364c117a62",
+                    "hash_id" : "0859b9b299c6355489278fc08c2b63ac"
+                },
+                "images" : {
+                    "full" : {
+                        "url" : "http://email-media.s3.amazonaws.com/Sailthru/default/images/stock/high_heels.jpg"
+                    }
+                }
+            }]
