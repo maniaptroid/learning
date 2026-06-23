@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Nike Air Max",
+    "description": "Comfortable running shoe",
+    "price": 4999,
+    "image_url": "https://picsum.photos/300/300?1",
+    "url": "https://example.com/product1"
+  },
+  {
+    "title": "Adidas Ultraboost",
+    "description": "Premium sports shoe",
+    "price": 6999,
+    "image_url": "https://picsum.photos/300/300?2",
+    "url": "https://example.com/product2"
+  }
+]
